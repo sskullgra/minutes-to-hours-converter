@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/hello/static/css/main.5f361e03.chunk.css",
-    "main.js": "/hello/static/js/main.13ce8b39.chunk.js",
-    "main.js.map": "/hello/static/js/main.13ce8b39.chunk.js.map",
-    "runtime-main.js": "/hello/static/js/runtime-main.0becb6b6.js",
-    "runtime-main.js.map": "/hello/static/js/runtime-main.0becb6b6.js.map",
-    "static/js/2.5c34b3f1.chunk.js": "/hello/static/js/2.5c34b3f1.chunk.js",
-    "static/js/2.5c34b3f1.chunk.js.map": "/hello/static/js/2.5c34b3f1.chunk.js.map",
-    "index.html": "/hello/index.html",
-    "precache-manifest.ea57ae640efa087679ef19603d6cf0c3.js": "/hello/precache-manifest.ea57ae640efa087679ef19603d6cf0c3.js",
-    "service-worker.js": "/hello/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/hello/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.5c34b3f1.chunk.js.LICENSE.txt": "/hello/static/js/2.5c34b3f1.chunk.js.LICENSE.txt"
+    "main.css": "/minutes-to-hours-converter/static/css/main.5f361e03.chunk.css",
+    "main.js": "/minutes-to-hours-converter/static/js/main.b8b9e5f9.chunk.js",
+    "main.js.map": "/minutes-to-hours-converter/static/js/main.b8b9e5f9.chunk.js.map",
+    "runtime-main.js": "/minutes-to-hours-converter/static/js/runtime-main.6fb2923b.js",
+    "runtime-main.js.map": "/minutes-to-hours-converter/static/js/runtime-main.6fb2923b.js.map",
+    "static/js/2.5c34b3f1.chunk.js": "/minutes-to-hours-converter/static/js/2.5c34b3f1.chunk.js",
+    "static/js/2.5c34b3f1.chunk.js.map": "/minutes-to-hours-converter/static/js/2.5c34b3f1.chunk.js.map",
+    "index.html": "/minutes-to-hours-converter/index.html",
+    "precache-manifest.c14d2edf203b9621418c7b4eb0733b87.js": "/minutes-to-hours-converter/precache-manifest.c14d2edf203b9621418c7b4eb0733b87.js",
+    "service-worker.js": "/minutes-to-hours-converter/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/minutes-to-hours-converter/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5c34b3f1.chunk.js.LICENSE.txt": "/minutes-to-hours-converter/static/js/2.5c34b3f1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0becb6b6.js",
+    "static/js/runtime-main.6fb2923b.js",
     "static/js/2.5c34b3f1.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.13ce8b39.chunk.js"
+    "static/js/main.b8b9e5f9.chunk.js"
   ]
 }
